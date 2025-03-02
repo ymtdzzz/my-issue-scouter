@@ -1,0 +1,16 @@
+name: Run Issue Scouter
+
+on:
+  push:
+    branches:
+      - '*'
+
+jobs:
+  run-issue-scouter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run Issue Scouter
+        uses: ymtdzzz/issue-scouter@v0.0.1
+        with:
+          dry-run: "true"
+          config_file: "config.yml"
