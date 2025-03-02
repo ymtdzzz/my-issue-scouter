@@ -1,7 +1,7 @@
 # Gem
 
 | Repository | Title | UpdatedAt | Labels | Assignee | Comments |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | [faraday](https://github.com/lostisland/faraday) | [Support ciphers SSLOptions setting across adapters](https://github.com/lostisland/faraday/issues/1586) | 2024-09-16 | help wanted |  | 3 |
 | [faraday](https://github.com/lostisland/faraday) | [Would you be open to me contributing a `#clear` method in `Faraday::Adapter::Test::Stubs`?](https://github.com/lostisland/faraday/issues/1570) | 2024-06-25 | help wanted |  | 1 |
 | [faraday](https://github.com/lostisland/faraday) | [Please revisit the comma separated header collapsing decision.](https://github.com/lostisland/faraday/issues/1120) | 2024-07-08 | feature, help wanted |  | 6 |

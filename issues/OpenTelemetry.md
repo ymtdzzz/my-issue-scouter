@@ -1,7 +1,7 @@
 # OpenTelemetry
 
 | Repository | Title | UpdatedAt | Labels | Assignee | Comments |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | [opentelemetry-ruby](https://github.com/open-telemetry/opentelemetry-ruby) | [Make otlp-http, otlp-grpc, and otlp-common gems production-ready](https://github.com/open-telemetry/opentelemetry-ruby/issues/1667) | 2024-09-03 | help wanted, keep |  | 1 |
 | [opentelemetry-ruby](https://github.com/open-telemetry/opentelemetry-ruby) | [Create configuration-specific doc ](https://github.com/open-telemetry/opentelemetry-ruby/issues/1626) | 2024-05-09 | help wanted, keep |  | 1 |
 | [opentelemetry-ruby](https://github.com/open-telemetry/opentelemetry-ruby) | [TruffleRuby Test Exporter test failling](https://github.com/open-telemetry/opentelemetry-ruby/issues/1476) | 2024-10-16 | bug, help wanted, keep |  | 2 |
