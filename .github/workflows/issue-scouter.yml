@@ -4,14 +4,18 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - '*'
+      - 'main'
 
 jobs:
   run-issue-scouter:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
       - name: Run Issue Scouter
-        uses: ymtdzzz/issue-scouter@7fa222bed5110b8815cc4584bf7bd70d5c83ff63
+        uses: ymtdzzz/issue-scouter@v0.0.2
+        env:
+          ISSUE_SCOUTER_PAT: ${{ secrets.ISSUE_SCOUTER_PAT }}
         with:
-          dry-run: "true"
+          dry_run: "false"
           config_file: "config.yml"
