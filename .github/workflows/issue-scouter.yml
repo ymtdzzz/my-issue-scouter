@@ -1,6 +1,7 @@
 name: Run Issue Scouter
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - '*'
@@ -10,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Run Issue Scouter
-        uses: ymtdzzz/issue-scouter@v0.0.1
+        uses: ymtdzzz/issue-scouter@7fa222bed5110b8815cc4584bf7bd70d5c83ff63
         with:
           dry-run: "true"
           config_file: "config.yml"
