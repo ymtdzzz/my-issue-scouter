@@ -16,7 +16,7 @@ jobs:
       - name: Run Issue Scouter
         uses: ymtdzzz/issue-scouter@v0.0.4
         env:
-          ISSUE_SCOUTER_PAT: ${{ secrets.ISSUE_SCOUTER_PAT }}
+          ISSUE_SCOUTER_PAT: ${{ secrets.GITHUB_TOKEN }}
         with:
           dry_run: "false"
           config_file: "config.yml"
