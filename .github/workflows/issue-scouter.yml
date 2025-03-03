@@ -14,9 +14,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
       - name: Run Issue Scouter
-        uses: ymtdzzz/issue-scouter@v0.0.4
+        uses: ymtdzzz/issue-scouter@v0.0.5
         env:
-          ISSUE_SCOUTER_PAT: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           dry_run: "false"
           config_file: "config.yml"
