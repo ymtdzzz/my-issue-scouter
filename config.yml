@@ -38,8 +38,6 @@ repositories:
     - https://github.com/enkessler/childprocess
     - https://github.com/hpoydar/chronic_duration
     - https://github.com/wvanbergen/chunky_png/wiki
-    - https://github.com/CocoaPods/CLAide
-    - https://github.com/cocoapods/claide-plugins
     - https://github.com/solnic/coercible
     - https://github.com/interagent/committee
     - https://github.com/willnet/committee-rails
@@ -61,10 +59,9 @@ repositories:
     - https://github.com/heartcombo/devise
     - https://github.com/tigrish/devise-i18n
     - https://github.com/tinfoil/devise-two-factor
-    - https://github.com/tknzk/devise_alt_timeoutable
     - https://github.com/scambra/devise_invitable
     - https://github.com/halostatue/diff-lcs
-    - https://github.com/postmodern/digest-crc#readme
+    - https://github.com/postmodern/digest-crc
     - https://github.com/knu/ruby-domain_name
     - https://github.com/bkeepers/dotenv
     - https://github.com/ruby/drb
