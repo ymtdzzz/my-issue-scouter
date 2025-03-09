@@ -3,7 +3,7 @@ name: Run Issue Scouter
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 15 * * *'
+    - cron: "0 15 * * *"
 
 jobs:
   run-issue-scouter:
@@ -14,7 +14,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
       - name: Run Issue Scouter
-        uses: ymtdzzz/issue-scouter@v0.0.5
+        uses: ymtdzzz/issue-scouter@v0.0.6
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
