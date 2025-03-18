@@ -37,6 +37,7 @@
 | [danger](https://github.com/danger/danger) | [Expose issue events in Danger DSL](https://github.com/danger/danger/issues/246) | 2016-07-31 | Enhancement, DSL improvement, You Can Do This |  | 2 |
 | [factory_bot](https://github.com/thoughtbot/factory_bot) | [Drop support for Ruby 3.0](https://github.com/thoughtbot/factory_bot/issues/1715) | 2025-01-30 | good first issue |  | 2 |
 | [factory_bot](https://github.com/thoughtbot/factory_bot) | [Improve user feedback if defining static association with a block](https://github.com/thoughtbot/factory_bot/issues/1503) | 2023-06-13 | feature, attached PR, good first issue |  | 6 |
+| [faraday-retry](https://github.com/lostisland/faraday-retry) | [The ability to run some code when attempts have exhausted](https://github.com/lostisland/faraday-retry/issues/43) | 2025-03-18 | enhancement, good first issue, help wanted |  | 5 |
 | [fog-google](https://github.com/fog/fog-google) | [Improve test cleanup methods to allow parallel integration runs](https://github.com/fog/fog-google/issues/626) | 2024-04-07 | enhancement, help wanted, dev |  | 0 |
 | [fog-google](https://github.com/fog/fog-google) | [Requests should return `Fog::Compute::Google::Operation`](https://github.com/fog/fog-google/issues/381) | 2022-11-22 | enhancement, help wanted, priority/high, 2.0, hacktoberfest, pinned |  | 1 |
 | [fog-google](https://github.com/fog/fog-google) | [Get rid of "name eq .*#{identity}" logic](https://github.com/fog/fog-google/issues/404) | 2022-11-22 | enhancement, help wanted, 2.0, hacktoberfest, pinned |  | 3 |
