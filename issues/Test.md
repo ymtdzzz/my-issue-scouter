@@ -28,7 +28,7 @@
 | [danger](https://github.com/danger/danger) | [Add ability to modify PR rather than just add comments](https://github.com/danger/danger/issues/825) | 2017-09-26 | Enhancement, Help Wanted, You Can Do This |  | 4 |
 | [danger](https://github.com/danger/danger) | [Allow CIs to request more details about an existing PR](https://github.com/danger/danger/issues/226) | 2016-10-29 | You Can Do This |  | 9 |
 | [danger](https://github.com/danger/danger) | [Improve error Reporting in Danger](https://github.com/danger/danger/issues/138) | 2016-09-30 | Enhancement, You Can Do This |  | 1 |
-| [danger](https://github.com/danger/danger) | [Attempt to update the commit status for GitLab builds](https://github.com/danger/danger/issues/509) | 2016-09-15 | Enhancement, You Can Do This, GitLab |  | 0 |
+| [danger](https://github.com/danger/danger) | [Attempt to update the commit status for GitLab builds](https://github.com/danger/danger/issues/509) | 2016-09-15 | Enhancement, You Can Do This, GitLab | @JuanitoFatas | 0 |
 | [danger](https://github.com/danger/danger) | [Move documentation from Danger.Systems into `danger init`](https://github.com/danger/danger/issues/534) | 2016-09-05 | Enhancement, You Can Do This |  | 0 |
 | [danger](https://github.com/danger/danger) | [Danger local doesn't work for private repos](https://github.com/danger/danger/issues/231) | 2016-09-05 | Enhancement, Help Wanted |  | 9 |
 | [danger](https://github.com/danger/danger) | [Danger breaks on non-english locale systems (Jenkins)](https://github.com/danger/danger/issues/476) | 2016-09-04 | Enhancement, You Can Do This |  | 4 |
@@ -38,10 +38,10 @@
 | [factory_bot](https://github.com/thoughtbot/factory_bot) | [Drop support for Ruby 3.0](https://github.com/thoughtbot/factory_bot/issues/1715) | 2025-01-30 | good first issue |  | 2 |
 | [factory_bot](https://github.com/thoughtbot/factory_bot) | [Improve user feedback if defining static association with a block](https://github.com/thoughtbot/factory_bot/issues/1503) | 2023-06-13 | feature, attached PR, good first issue |  | 6 |
 | [faraday-retry](https://github.com/lostisland/faraday-retry) | [The ability to run some code when attempts have exhausted](https://github.com/lostisland/faraday-retry/issues/43) | 2025-03-18 | enhancement, good first issue, help wanted |  | 5 |
+| [fog-google](https://github.com/fog/fog-google) | [Full Support of fog-core version 2](https://github.com/fog/fog-google/issues/421) | 2025-03-19 | help wanted, dev, priority/high, 2.0, pinned |  | 18 |
 | [fog-google](https://github.com/fog/fog-google) | [Improve test cleanup methods to allow parallel integration runs](https://github.com/fog/fog-google/issues/626) | 2024-04-07 | enhancement, help wanted, dev |  | 0 |
 | [fog-google](https://github.com/fog/fog-google) | [Requests should return `Fog::Compute::Google::Operation`](https://github.com/fog/fog-google/issues/381) | 2022-11-22 | enhancement, help wanted, priority/high, 2.0, hacktoberfest, pinned |  | 1 |
-| [fog-google](https://github.com/fog/fog-google) | [Get rid of "name eq .*#{identity}" logic](https://github.com/fog/fog-google/issues/404) | 2022-11-22 | enhancement, help wanted, 2.0, hacktoberfest, pinned |  | 3 |
-| [fog-google](https://github.com/fog/fog-google) | [Full Support of fog-core version 2](https://github.com/fog/fog-google/issues/421) | 2021-09-27 | help wanted, dev, priority/high, 2.0, pinned |  | 17 |
+| [fog-google](https://github.com/fog/fog-google) | [Get rid of "name eq .*#{identity}" logic](https://github.com/fog/fog-google/issues/404) | 2022-11-22 | enhancement, help wanted, 2.0, hacktoberfest, pinned | @Temikus | 3 |
 | [grape](https://github.com/ruby-grape/grape) | [Rails 7 has removed ActiveSupport::Dependencies. How should reloading be done now?](https://github.com/ruby-grape/grape/issues/2238) | 2024-10-11 | bug?, you can help |  | 6 |
 | [grape](https://github.com/ruby-grape/grape) | [Include Rack::TempFileReaper in Grape ?](https://github.com/ruby-grape/grape/issues/2487) | 2024-10-08 | feature request, you can help |  | 0 |
 | [grape](https://github.com/ruby-grape/grape) | [Explicit parameters only](https://github.com/ruby-grape/grape/issues/810) | 2023-10-19 | feature request, discuss!, you can help |  | 9 |
@@ -55,6 +55,10 @@
 | [grape-swagger](https://github.com/ruby-grape/grape-swagger) | [Best way to host the swagger-ui in grape](https://github.com/ruby-grape/grape-swagger/issues/109) | 2016-03-15 | new feature, needs help, swagger-1.2 |  | 9 |
 | [grape-swagger](https://github.com/ruby-grape/grape-swagger) | [JSON API v1.0 support](https://github.com/ruby-grape/grape-swagger/issues/271) | 2016-03-15 | needs help, swagger-1.2 |  | 1 |
 | [grape-swagger-rails](https://github.com/ruby-grape/grape-swagger-rails) | [Pass through all Swagger-UI options to more fully support customization](https://github.com/ruby-grape/grape-swagger-rails/issues/47) | 2016-03-06 | new feature, you can help |  | 0 |
+| [ruby-jwt](https://github.com/jwt/ruby-jwt) | [ExpiredSignature should perhaps not be a subclass of DecodeError](https://github.com/jwt/ruby-jwt/issues/606) | 2024-09-29 | up for grabs |  | 3 |
+| [ruby-jwt](https://github.com/jwt/ruby-jwt) | [Suggest passing block to JWT.decode for claim verification](https://github.com/jwt/ruby-jwt/issues/110) | 2024-07-22 | enhancement, discussion, help wanted, up for grabs |  | 7 |
+| [ruby-jwt](https://github.com/jwt/ruby-jwt) | [Support for Unencoded Payload Option (RFC 7797)](https://github.com/jwt/ruby-jwt/issues/309) | 2024-03-22 | enhancement, documentation, feature, up for grabs |  | 6 |
+| [ruby-jwt](https://github.com/jwt/ruby-jwt) | [Introduce JWE support](https://github.com/jwt/ruby-jwt/issues/80) | 2023-02-02 | enhancement, feature, help wanted, up for grabs |  | 11 |
 | [newrelic-ruby-agent](https://github.com/newrelic/newrelic-ruby-agent) | [Consolidate "Unknown" constant values](https://github.com/newrelic/newrelic-ruby-agent/issues/2368) | 2025-03-13 | good first issue, technical debt, small, low impact |  | 1 |
 | [newrelic-ruby-agent](https://github.com/newrelic/newrelic-ruby-agent) | [Add tests for Thin](https://github.com/newrelic/newrelic-ruby-agent/issues/1101) | 2025-02-04 | help wanted, technical debt, testing, hacktoberfest, small, low impact |  | 1 |
 | [newrelic-ruby-agent](https://github.com/newrelic/newrelic-ruby-agent) | [Compile TODOs into issues and link them to each other](https://github.com/newrelic/newrelic-ruby-agent/issues/1023) | 2025-02-04 | good first issue, help wanted, technical debt, trivial, med impact |  | 2 |
@@ -70,16 +74,12 @@
 | [prism](https://github.com/ruby/prism) | [Document fields](https://github.com/ruby/prism/issues/2123) | 2024-12-21 | good first issue, help wanted |  | 10 |
 | [pundit](https://github.com/varvet/pundit) | [Overriding both authorize and policy is required for namespacing](https://github.com/varvet/pundit/issues/723) | 2024-05-15 | good first issue |  | 4 |
 | [pundit](https://github.com/varvet/pundit) | [[Request] Generate policy file when using scaffolding](https://github.com/varvet/pundit/issues/735) | 2024-05-13 | good first issue |  | 3 |
-| [ruby-jwt](https://github.com/jwt/ruby-jwt) | [ExpiredSignature should perhaps not be a subclass of DecodeError](https://github.com/jwt/ruby-jwt/issues/606) | 2024-09-29 | up for grabs |  | 3 |
-| [ruby-jwt](https://github.com/jwt/ruby-jwt) | [Suggest passing block to JWT.decode for claim verification](https://github.com/jwt/ruby-jwt/issues/110) | 2024-07-22 | enhancement, discussion, help wanted, up for grabs |  | 7 |
-| [ruby-jwt](https://github.com/jwt/ruby-jwt) | [Support for Unencoded Payload Option (RFC 7797)](https://github.com/jwt/ruby-jwt/issues/309) | 2024-03-22 | enhancement, documentation, feature, up for grabs |  | 6 |
-| [ruby-jwt](https://github.com/jwt/ruby-jwt) | [Introduce JWE support](https://github.com/jwt/ruby-jwt/issues/80) | 2023-02-02 | enhancement, feature, help wanted, up for grabs |  | 11 |
 | [rails-i18n](https://github.com/svenfuchs/rails-i18n) | [Polish: wrong Polish pluralization rules](https://github.com/svenfuchs/rails-i18n/issues/703) | 2024-09-23 | stale, help wanted |  | 2 |
 | [ransack](https://github.com/activerecord-hackery/ransack) | [Make searches chainable using and/or](https://github.com/activerecord-hackery/ransack/issues/417) | 2024-11-14 | Help Wanted |  | 4 |
 | [ransack](https://github.com/activerecord-hackery/ransack) | [Translation when using with SimpleForm](https://github.com/activerecord-hackery/ransack/issues/1160) | 2024-04-14 | Help Wanted, simple_form |  | 1 |
 | [ransack](https://github.com/activerecord-hackery/ransack) | [_in predicate does not work for array attribute](https://github.com/activerecord-hackery/ransack/issues/897) | 2023-01-26 | Help Wanted |  | 3 |
 | [ransack](https://github.com/activerecord-hackery/ransack) | [Failing spec is marked pending](https://github.com/activerecord-hackery/ransack/issues/1341) | 2022-06-12 | Help Wanted, tests wanted |  | 0 |
-| [ransack](https://github.com/activerecord-hackery/ransack) | [Add the helper search_form_with](https://github.com/activerecord-hackery/ransack/issues/962) | 2022-03-10 | Help Wanted |  | 0 |
+| [ransack](https://github.com/activerecord-hackery/ransack) | [Add the helper search_form_with](https://github.com/activerecord-hackery/ransack/issues/962) | 2022-03-10 | Help Wanted | @scarroll32 | 0 |
 | [ransack](https://github.com/activerecord-hackery/ransack) | [NoMethodError raised when calling .joins(...).ransack(..._not_null: true)](https://github.com/activerecord-hackery/ransack/issues/1257) | 2022-03-04 | Help Wanted |  | 1 |
 | [ransack](https://github.com/activerecord-hackery/ransack) | [ransack_alias missing method not throwing](https://github.com/activerecord-hackery/ransack/issues/741) | 2020-01-10 | Help Wanted |  | 2 |
 | [ransack](https://github.com/activerecord-hackery/ransack) | [Incorrect type definition in case of models with identical attributes names](https://github.com/activerecord-hackery/ransack/issues/840) | 2020-01-10 | Help Wanted |  | 3 |
@@ -106,10 +106,10 @@
 | [rubocop-rspec](https://github.com/rubocop/rubocop-rspec) | [More general cop for stubbing system under test](https://github.com/rubocop/rubocop-rspec/issues/311) | 2024-11-27 | enhancement, cop, help wanted |  | 2 |
 | [rubocop-rspec](https://github.com/rubocop/rubocop-rspec) | [Cop Idea: use fixture_path](https://github.com/rubocop/rubocop-rspec/issues/250) | 2022-12-16 | cop, help wanted, good first issue |  | 2 |
 | [rubocop-rspec](https://github.com/rubocop/rubocop-rspec) | [Allow more lines on scenario examples](https://github.com/rubocop/rubocop-rspec/issues/210) | 2022-09-18 | enhancement, help wanted |  | 18 |
-| [rubocop-rspec](https://github.com/rubocop/rubocop-rspec) | [Cop idea: Replace ActiveJob::TestHelper with activejob matchers](https://github.com/rubocop/rubocop-rspec/issues/334) | 2021-01-06 | enhancement, cop, help wanted |  | 6 |
+| [rubocop-rspec](https://github.com/rubocop/rubocop-rspec) | [Cop idea: Replace ActiveJob::TestHelper with activejob matchers](https://github.com/rubocop/rubocop-rspec/issues/334) | 2021-01-06 | enhancement, cop, help wanted | @Darhazer | 6 |
 | [simplecov](https://github.com/simplecov-ruby/simplecov) | [Don't mark non required files as "100%" branch coverage](https://github.com/simplecov-ruby/simplecov/issues/902) | 2023-01-15 | Feature, Branch Coverage, good first issue |  | 1 |
 | [simplecov](https://github.com/simplecov-ruby/simplecov) | [Implement branch coverage support for exit status modifiers](https://github.com/simplecov-ruby/simplecov/issues/844) | 2022-10-04 | Feature, Branch Coverage, good first issue |  | 2 |
-| [webauthn-ruby](https://github.com/cedarcode/webauthn-ruby) | [Update conformance tests](https://github.com/cedarcode/webauthn-ruby/issues/362) | 2024-12-16 | good first issue |  | 0 |
+| [webauthn-ruby](https://github.com/cedarcode/webauthn-ruby) | [Update conformance tests](https://github.com/cedarcode/webauthn-ruby/issues/362) | 2024-12-16 | good first issue | @santiagorodriguez96 | 0 |
 | [webmock](https://github.com/bblimke/webmock) | [Webmock/Net:HTTP (via faraday) opens a connection when disallowing connections.](https://github.com/bblimke/webmock/issues/578) | 2024-07-09 | Help Wanted |  | 12 |
 | [webmock](https://github.com/bblimke/webmock) | [random failure of spec/acceptance/httpclient/httpclient_spec.rb[1:5:1:4:4]](https://github.com/bblimke/webmock/issues/711) | 2018-02-12 | Help Wanted |  | 5 |
 | [webmock](https://github.com/bblimke/webmock) | [Unix sockets in Excon](https://github.com/bblimke/webmock/issues/609) | 2018-02-12 | Help Wanted |  | 3 |

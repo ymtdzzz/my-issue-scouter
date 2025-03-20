@@ -10,10 +10,10 @@
 | [faraday](https://github.com/lostisland/faraday) | [Faraday Adapter Parallel Requests On Multiple Domains / Connections](https://github.com/lostisland/faraday/issues/805) | 2021-01-05 | feature, help wanted |  | 5 |
 | [faraday](https://github.com/lostisland/faraday) | [Requests can no longer be converted to simple JSON](https://github.com/lostisland/faraday/issues/535) | 2018-05-26 | feature, help wanted |  | 8 |
 | [faraday](https://github.com/lostisland/faraday) | [Retain additional adapter information (timing, timeout, etc)](https://github.com/lostisland/faraday/issues/527) | 2017-08-17 | feature, help wanted |  | 6 |
+| [fog-google](https://github.com/fog/fog-google) | [Full Support of fog-core version 2](https://github.com/fog/fog-google/issues/421) | 2025-03-19 | help wanted, dev, priority/high, 2.0, pinned |  | 18 |
 | [fog-google](https://github.com/fog/fog-google) | [Improve test cleanup methods to allow parallel integration runs](https://github.com/fog/fog-google/issues/626) | 2024-04-07 | enhancement, help wanted, dev |  | 0 |
 | [fog-google](https://github.com/fog/fog-google) | [Requests should return `Fog::Compute::Google::Operation`](https://github.com/fog/fog-google/issues/381) | 2022-11-22 | enhancement, help wanted, priority/high, 2.0, hacktoberfest, pinned |  | 1 |
-| [fog-google](https://github.com/fog/fog-google) | [Get rid of "name eq .*#{identity}" logic](https://github.com/fog/fog-google/issues/404) | 2022-11-22 | enhancement, help wanted, 2.0, hacktoberfest, pinned |  | 3 |
-| [fog-google](https://github.com/fog/fog-google) | [Full Support of fog-core version 2](https://github.com/fog/fog-google/issues/421) | 2021-09-27 | help wanted, dev, priority/high, 2.0, pinned |  | 17 |
+| [fog-google](https://github.com/fog/fog-google) | [Get rid of "name eq .*#{identity}" logic](https://github.com/fog/fog-google/issues/404) | 2022-11-22 | enhancement, help wanted, 2.0, hacktoberfest, pinned | @Temikus | 3 |
 | [grape](https://github.com/ruby-grape/grape) | [Rails 7 has removed ActiveSupport::Dependencies. How should reloading be done now?](https://github.com/ruby-grape/grape/issues/2238) | 2024-10-11 | bug?, you can help |  | 6 |
 | [grape](https://github.com/ruby-grape/grape) | [Include Rack::TempFileReaper in Grape ?](https://github.com/ruby-grape/grape/issues/2487) | 2024-10-08 | feature request, you can help |  | 0 |
 | [grape](https://github.com/ruby-grape/grape) | [Explicit parameters only](https://github.com/ruby-grape/grape/issues/810) | 2023-10-19 | feature request, discuss!, you can help |  | 9 |
@@ -36,7 +36,7 @@
 | [puma](https://github.com/puma/puma) | ["undefined method `on_booted` for nil:NilClass" on "pumactl start"](https://github.com/puma/puma/issues/3356) | 2024-03-29 | bug, contrib-wanted |  | 2 |
 | [puma](https://github.com/puma/puma) | [Add support for `EXTEND_TIMEOUT_USEC` to systemd notification support](https://github.com/puma/puma/issues/3234) | 2023-09-27 | contrib-wanted, systemd |  | 1 |
 | [puma](https://github.com/puma/puma) | [Support apps responding to `Expect: 100-continue`](https://github.com/puma/puma/issues/3188) | 2023-08-25 | feature, contrib-wanted |  | 10 |
-| [puma](https://github.com/puma/puma) | [Display useful suggestions in error message on windows when port reserved? (bind EACCES)](https://github.com/puma/puma/issues/2894) | 2022-11-12 | feature, contrib-wanted |  | 6 |
+| [puma](https://github.com/puma/puma) | [Display useful suggestions in error message on windows when port reserved? (bind EACCES)](https://github.com/puma/puma/issues/2894) | 2022-11-12 | feature, contrib-wanted | @MSP-Greg | 6 |
 | [puma](https://github.com/puma/puma) | [bind and control-url causes UNIX socket issue](https://github.com/puma/puma/issues/2789) | 2022-09-11 | bug, contrib-wanted |  | 8 |
 | [pundit](https://github.com/varvet/pundit) | [Overriding both authorize and policy is required for namespacing](https://github.com/varvet/pundit/issues/723) | 2024-05-15 | good first issue |  | 4 |
 | [pundit](https://github.com/varvet/pundit) | [[Request] Generate policy file when using scaffolding](https://github.com/varvet/pundit/issues/735) | 2024-05-13 | good first issue |  | 3 |
