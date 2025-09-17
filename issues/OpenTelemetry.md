@@ -2,7 +2,6 @@
 
 | Repository | Title | UpdatedAt | Labels | Assignee | Comments |
 | --- | --- | --- | --- | --- | --- |
-| [opentelemetry-ruby](https://github.com/open-telemetry/opentelemetry-ruby) | [Move nano timestamp calculation to `common` gem](https://github.com/open-telemetry/opentelemetry-ruby/issues/1889) | 2025-09-15 | good first issue, keep |  | 1 |
 | [opentelemetry-ruby](https://github.com/open-telemetry/opentelemetry-ruby) | [OTLP Exporter Compression should be `none` by default](https://github.com/open-telemetry/opentelemetry-ruby/issues/1798) | 2025-02-22 | good first issue, spec-compliance, keep |  | 1 |
 | [opentelemetry-ruby](https://github.com/open-telemetry/opentelemetry-ruby) | [TruffleRuby Test Exporter test failling](https://github.com/open-telemetry/opentelemetry-ruby/issues/1476) | 2024-10-16 | bug, help wanted, keep | @kaylareopelle | 2 |
 | [opentelemetry-ruby](https://github.com/open-telemetry/opentelemetry-ruby) | [Make otlp-http, otlp-grpc, and otlp-common gems production-ready](https://github.com/open-telemetry/opentelemetry-ruby/issues/1667) | 2024-09-03 | help wanted, keep |  | 1 |
