@@ -2,6 +2,7 @@
 
 | Repository | Title | UpdatedAt | Labels | Assignee | Comments |
 | --- | --- | --- | --- | --- | --- |
+| [opentelemetry-ruby](https://github.com/open-telemetry/opentelemetry-ruby) | [Ruby 4 compatability](https://github.com/open-telemetry/opentelemetry-ruby/issues/2008) | 2026-01-08 | help wanted |  | 0 |
 | [opentelemetry-ruby](https://github.com/open-telemetry/opentelemetry-ruby) | [Add reference application for new Getting Started](https://github.com/open-telemetry/opentelemetry-ruby/issues/1928) | 2025-12-01 | help wanted, keep |  | 3 |
 | [opentelemetry-ruby](https://github.com/open-telemetry/opentelemetry-ruby) | [OTLP Exporter Compression should be `none` by default](https://github.com/open-telemetry/opentelemetry-ruby/issues/1798) | 2025-02-22 | good first issue, spec-compliance, keep |  | 1 |
 | [opentelemetry-ruby](https://github.com/open-telemetry/opentelemetry-ruby) | [TruffleRuby Test Exporter test failling](https://github.com/open-telemetry/opentelemetry-ruby/issues/1476) | 2024-10-16 | bug, help wanted, keep | @kaylareopelle | 2 |
