@@ -2,8 +2,8 @@
 
 | Repository | Title | UpdatedAt | Labels | Assignee | Comments |
 | --- | --- | --- | --- | --- | --- |
+| [opentelemetry-ruby](https://github.com/open-telemetry/opentelemetry-ruby) | [Read `OTEL_EXPORTER_OTLP_METRICS_DEFAULT_HISTOGRAM_AGGREGATION`](https://github.com/open-telemetry/opentelemetry-ruby/issues/2372) | 2026-10-12 | enhancement, good first issue, spec-compliance, metrics, spec:stable |  | 2 |
 | [opentelemetry-ruby](https://github.com/open-telemetry/opentelemetry-ruby) | [Make instrument name conflict detection case-insensitive](https://github.com/open-telemetry/opentelemetry-ruby/issues/2357) | 2026-10-07 | bug, good first issue, spec-compliance, metrics, spec:stable | @naveedsajjdawan | 1 |
-| [opentelemetry-ruby](https://github.com/open-telemetry/opentelemetry-ruby) | [Read `OTEL_EXPORTER_OTLP_METRICS_DEFAULT_HISTOGRAM_AGGREGATION`](https://github.com/open-telemetry/opentelemetry-ruby/issues/2372) | 2026-09-10 | enhancement, good first issue, spec-compliance, metrics, spec:stable |  | 1 |
 | [opentelemetry-ruby](https://github.com/open-telemetry/opentelemetry-ruby) | [TruffleRuby Test Exporter test failling](https://github.com/open-telemetry/opentelemetry-ruby/issues/1476) | 2024-10-16 | bug, help wanted, keep | @kaylareopelle | 2 |
 | [opentelemetry-ruby](https://github.com/open-telemetry/opentelemetry-ruby) | [Create configuration-specific doc ](https://github.com/open-telemetry/opentelemetry-ruby/issues/1626) | 2024-05-09 | help wanted, keep |  | 1 |
 | [opentelemetry-ruby-contrib](https://github.com/open-telemetry/opentelemetry-ruby-contrib) | [Grape v4 upgrade fails](https://github.com/open-telemetry/opentelemetry-ruby-contrib/issues/2581) | 2026-09-28 | good first issue, help wanted, instrumentation-grape |  | 2 |
